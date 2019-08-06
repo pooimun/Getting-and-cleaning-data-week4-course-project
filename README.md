@@ -1,4 +1,5 @@
-## This is for the purpose of completing week 4 course project.
+## Description
+This is for the purpose of completing week 4 course project.
 The R script should do the following
 
 1. Merges the training and the test sets to create one data set.
